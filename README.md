@@ -1,5 +1,4 @@
-
-1.# ☀️ Faulty Solar Panel Detection Using Artificial Intelligence
+# ☀️ Faulty Solar Panel Detection Using Artificial Intelligence
 
 An AI-powered multi-class solar panel fault detection system using
 deep learning, ensemble learning, and attention-based feature fusion.
