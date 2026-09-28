@@ -1,8 +1,5 @@
 
----
-
-```markdown
-# ☀️ Faulty Solar Panel Detection Using Artificial Intelligence
+1.# ☀️ Faulty Solar Panel Detection Using Artificial Intelligence
 
 An AI-powered multi-class solar panel fault detection system using
 deep learning, ensemble learning, and attention-based feature fusion.
@@ -246,14 +243,3 @@ work on deep learning, computer vision, and photovoltaic fault
 detection supports this project.
 ```
 
----
-
-### Before publishing
-
-There are three things I'd recommend checking in your repository:
-
-1. **Project structure:** Replace the illustrative folder structure with your actual files.
-2. **Installation:** Make sure the `requirements.txt` and Streamlit entry-point filename match your implementation.
-3. **Results:** Add your actual model accuracy, precision, recall, and F1-scores once they're finalized. Don't publish estimated results as experimental results.
-
-Your README will then provide visitors with a clear explanation of the project, its architecture, and how to run it.
